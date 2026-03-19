@@ -49,7 +49,7 @@ python app.py
 
 ## 📂 Estrutura do projeto
 
-```
+```bash
 assistente-voz-multiidiomas/
 │── app.py                     # Código principal
 │── requirements.txt           # Dependências
@@ -62,9 +62,9 @@ assistente-voz-multiidiomas/
 ## 📸 Demonstração
 
 **Pergunta:** Olá, qual é a capital da França?  
-**Resposta:** A capital da França é Paris.  
+**Resposta:** A capital da França é Paris.
 
-```
+```text
 ****************************************
 ```
 
